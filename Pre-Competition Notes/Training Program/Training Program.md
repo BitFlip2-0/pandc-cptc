@@ -12,5 +12,3 @@ Web Application Path- [**SQL Injection Fundamentals](https://academy.hackthebox.
 Shell Exploitation Path- [**Command Injections](https://academy.hackthebox.com/module/details/109) [Linux Privilege Escalation](https://academy.hackthebox.com/module/details/51) [Shells & Payloads](https://academy.hackthebox.com/module/details/115) [Command Injections](https://academy.hackthebox.com/module/details/109) [Windows Privilege Escalation](https://academy.hackthebox.com/module/details/67)** [https://www.academy.attackiq.com/learning-path/intermediate-mitre-attck](https://www.academy.attackiq.com/learning-path/intermediate-mitre-attck)
 
 Networking/Services Path- [**Network Enumeration with Nmap**](https://academy.hackthebox.com/module/details/19) [**Pivoting, Tunneling, and Port Forwarding](https://academy.hackthebox.com/module/details/158) [Attacking Common Services](https://academy.hackthebox.com/module/details/116) [Shells & Payloads](https://academy.hackthebox.com/module/details/115)**
-
-Sign here when you’ve completed your program! -_Signature_
